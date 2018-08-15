@@ -1,0 +1,112 @@
+h1{
+	color: red;
+	font-family: sans-serif;
+	font-size: 2.75em;
+	padding-bottom: 10px;
+    font-weight: 300;
+    line-height: 1.125em;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 0 0;
+}
+
+h2{
+	font-family: sans-serif;
+	position: absolute;
+	left: 125px;
+	top: 35px;
+}
+
+h3{
+	font-size: 24px;
+	color: gray;
+	font-family: sans-serif;
+    margin: auto;
+    width: 55%;
+    padding: 10px;
+    text-align: center;
+    font-weight: 300;
+}
+
+ul{
+	
+	margin: 0;
+    padding: 0;
+}
+
+img {
+    position: absolute;
+    left: 25px;
+
+    width: 65px;
+    padding: 25px;
+
+}
+
+header{
+	margin: auto;
+	width: 50%;
+	padding: 0 55%;
+	margin: 0 0;	
+	color: #fff; 
+}
+
+section{
+	margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+footer{
+	color:gray;
+	
+	text-align: center;
+
+
+}
+body{
+	background-image: url("logo.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 110%;
+}
+
+.li1{
+	font-family: sans-serif;
+	font-weight: 300;
+	display: inline;
+	padding: 0 10px;
+}
+
+.sp{
+	font-family: sans-serif;
+	font-weight: 300;
+	font-size: 1.50em;
+	color: gray;
+	list-style-type: disc;
+	float: left;
+	padding: 20px 10px;
+	margin-left: 40px;
+	
+}
+
+.Menu{
+	color: white; 	
+
+}
+
+#Menu{
+	margin: auto;
+	width: 90%;
+	padding: 50px 0;
+
+}
+
+#Lang{
+	margin-left: 21%
+}
+
+
+
+
+
